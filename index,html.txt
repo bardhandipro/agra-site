@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Agra | Continental Restaurant</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to Agra</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#menu">Menu</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Agra</h2>
+      <p>Continental cuisine served with a modern twist.</p>
+    </section>
+
+    <section id="menu">
+      <h2>Our Menu</h2>
+      <ul>
+        <li>Chicken Alfredo - Tk 750</li>
+        <li>Beef Steak - Tk 1200</li>
+        <li>Caesar Salad - Tk 450</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Visit us in Dhaka or call us to reserve.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Agra Restaurant. All rights reserved.</p>
+  </footer>
+</body>
+</html>
